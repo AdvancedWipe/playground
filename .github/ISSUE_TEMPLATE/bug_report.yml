@@ -89,7 +89,7 @@ body:
       description: Do you use Optifine?
       options:
         - label: Yes, I do
-        - label: No, I do not
+        - label: No, I don't
   - type: markdown
     attributes:
       value: >-
