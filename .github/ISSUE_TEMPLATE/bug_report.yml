@@ -87,8 +87,8 @@ body:
       label: Optifine
       description: Do you use Optifine?
       options:
-        - label: Name
-        - label: Name1
+        - label: Yes, I do
+        - label: No, I do not
   - type: markdown
     attributes:
       value: >-
