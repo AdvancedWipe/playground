@@ -1,3 +1,4 @@
+---
 name: Bug fix
 about: Use this template if you're creating a pull request which fixes another bug or issue
 title: ''
